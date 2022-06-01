@@ -1,100 +1,170 @@
-*****
-Cricut.com/setup For Windows,MAC,PC : Cricut Design Space
-*****
 
-Cricut.com/setup is an easy option to cut designs with your hands manually. The craftwork and large design tasks are completed by Cricut. The handmade designs lack the finishing but the designs cut by the Cricut machines are precise as per the designs on the cricut design space application. Also, the user gets a design space application that makes inserting the templates and editing work easy. Not only the working of the Cricut machine but the setup of it is also quite important. So here is the guide to set up your purchased Cricut machine.
 
-*****
-Guide to set up the Cricut.com/setup machine:
-*****
 
-This guide will explain each and every small detail about the Cricut machine setup. The steps such as Purchasing the right Cricut machine, Unboxing it, Downloading the design space application, Installing it, connecting the machine to your device, and finally applying a cut job to your machine. All these steps are explained one by one in this context.
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Cricut.com/setup For Windows,MAC,PC : Cricut Design Space</title>
+  
 
-*****
-Purchasing the proper Cricut machine:
-*****
+  
+  
+  
+  
 
-There are 3 models of the Cricut machine and purchasing the proper model is important looking towards your use of the machine. So here we go for the details of each model of the Cricut machine.
+  
+  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/language_data.js"></script>
+        <script type="text/javascript" src="https://assets.readthedocs.org/static/javascript/readthedocs-doc-embed.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
 
-Cricut Joy:This is the smallest but the most joyful Cricut machine. The user can cut small and minute designs using the Cricut Joy. You get a single pointer tool that can cut almost 7-8 types of materials. The materials include paper, cardboard, vinyl, and wood. You do not get the printer inbuilt in the Cricut joy machine. And you cannot cut heavy and large designs with the help of Cricut joy.
-Cricut Explore:This is a little more spacious and a large Cricut machine. Using the Cricut explore the user can cut almost 50+ different materials. The list is given on our website. Also, you get a manual button present on the machines. There is a printer as well as 2 different cutting tools provided with this machine. You can cut large and heavy designs using the Cricut explore.
-Cricut Maker:This is the most advanced Cricut.com/setup machine. It is a fully automatic machine and can cut over 200+ materials. You can also cut large and heavy designs. The maker machine comes with an inbuilt printer as well as various tools to cut different materials. You get enough storage space to keep your tools.
+    
 
-*****
-Unboxing your Cricut machine:
-*****
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
 
-After purchasing the carrier delivers to your doorstep and from here starts the unboxing process;
+<!-- RTD Extra Head -->
 
-*****
-cricut.com/setup - Cricut Design Space
-*****
+<!-- 
+Always link to the latest version, as canonical.
+http://docs.readthedocs.org/en/latest/canonical.html
+-->
+<link rel="canonical" href="https://ijcanon.readthedocs.io/en/latest/" />
 
-Place the box on a clean table.
-Make a recording or unboxing video.
-Then remove the outer box of the Cricut machine.
-Now get the Cricut machine out f the main box.
-As well as remove the other accessories from the box.
-Now plug the power cable into the power socket of the Cricut machine.
-Plugin the wire and turn it on.
-Now take the other documents and warranty card and keep them safe.
-Now your Cricut machine is ready to use.
-Downloading the Cricut design space application:
-So for the windows, the Cricut design space can be downloaded by;
+<link rel="stylesheet" href="https://assets.readthedocs.org/static/css/readthedocs-doc-embed.css" type="text/css" />
 
-Directly visit the official website of Cricut i.e. cricut.com/setup.
-Then select the model of your Cricut machine i.e. Cricut Joy, Maker, or Explore.
-Then tick the agreement line as you have agreed with the Cricut agreement.
-Press the bolded download button in green font.
-Now, wait for the download to complete.
-Now go to the downloads folder or simply open the downloads tab of your browser and install the application from here.
-The same process can be followed to download Cricut for MAC operating system.
-Installing the Cricut design space:
-After downloading the Cricut design space setup;
+<script type="text/javascript" src="_static/readthedocs-data.js"></script>
 
-Go to the Downloads folder or the download location of the same browser.
-Then either press double click or a single click.
-Then give permission to install the design space application by pressing the Yes button.
-Now, wait for the initialization and the installation.
-The installation will take automatically and then open the application.
-If the update for the application is available then update it immediately.
-This will take some time.
-Now restart your system.
-Follow the same process for the MAC operating system.
-Creating the Cricut Account:
-After you install the Cricut.com/setup design space application;
+<!-- Add page-specific data, which must exist in the page js, not global -->
+<script type="text/javascript">
+READTHEDOCS_DATA['page'] = "index"
+READTHEDOCS_DATA['source_suffix'] = ".rst"
+</script>
 
-Open the application.
-Then click on the setup device button.
-Here you will get a small form asking for information such as Email address, Password, Name, and Country.
-Enter these details and then click on create account button.
-Your account is now ready and you can use this account on any device.
-Connecting the Cricut maker machine with the device:
-The devices such as PC and Laptop can be connected using this method and the method follows the steps given below;
 
-Inside the Cricut.com/setup machine, you get a USB cable with one end USB and another rounded end.
-The rounded end must be inserted into the plug laying just beside the power plug.
-Now again insert the USB cable into the USB port of your device.
-Now turn on your device and open the Cricut design space application.
-The application will automatically identify the device and proceed to the next step.
-Sample cut to confirm the proper installation:
-This is the final step and it verifies that your device is connected successfully. The steps in this verification are as follows;
+<!-- end RTD <extrahead> -->
+</head>
 
-After finishing all the above steps, select any templates given among the 6 templates.
-Then insert the paper into the tray and then press the load up button.
-Now proceed with the editing if any is required for the selected design.
-If not necessary then simply click on the continue button.
-Now press the go button present on the Cricut machine.
-Wait for a few seconds till the machine takes up the paper and cuts into the desired design.
-Remove the paper and check the design.
-Bluetooth connection of the Cricut machine:
-For some devices such as the mobile handset, you need to connect the device using the Bluetooth connection. For that;
+<body>
 
-*****
-Open the Bluetooth settings of your handset.
-*****
+   
+<strong>Cricut.com/setup</strong> is that the setup process from where you’ll be able to get the software or application to download for your device. what’s Cricut? Cricut is to chop the look and project in step with your choice of design and material. It can draw on material like denim, fleece, etc., and also cut on material like fabric, vinyl, cardboard, etc. The ID-creating process and downloading of the software or application are given below. Then the ways to attach the Cricut with other devices are given below. to understand well about <strong>Cricut maker machine</strong> visit the knowledge below:-
+<h2><strong>Features of Cricut machine?</strong></h2>
+Talking about the most effective part is talking about the features of the Cricut maker machine. If you would like to download the software or application for Cricut maker then you’ll visit the link <strong>Cricut.com/setup</strong> using your Pc, laptop, or other devices. Following are some features of the Cricut machine;
+<ul>
+ 	<li>The first feature is that it can draw, scan, and cut in an exceedingly single machine.</li>
+ 	<li>Cricut will be connected via Bluetooth and via USB cable with any device that’s Windows device, Mac, iPad, iOS, Android devices, etc.</li>
+ 	<li>Talking about the machine then it’s compartments to stay the items like pens, rotary blades, etc., in it.</li>
+ 	<li>The next one is that you simply can even change the blades and drawing pen of the Cricut.</li>
+ 	<li>Only four operating buttons are available on the machine which makes it decent machine and exquisite also.</li>
+ 	<li>It can accurately draw and cut the fabric with none mistake.</li>
+ 	<li>It can draw on materials like fleece, denim, cardboard, cotton, etc.</li>
+ 	<li>And it can cut the fabric like iron-on, poster board, vinyl, etc.</li>
+ 	<li>So above the simplest features of Cricut maker.</li>
+</ul>
+<h2><strong>A new Cricut ID creating steps</strong></h2>
+Following are the steps to form a brand new ID on Cricut if you’re a replacement user on Cricut;
+<ul>
+ 	<li>Firstly download and install the Software or application of Cricut.</li>
+ 	<li>Or visit the link <strong>Cricut.com/setup</strong>.</li>
+ 	<li>Now open it. There you’ll see the sign-in option.</li>
+ 	<li>Click thereon.</li>
+ 	<li>If you have already got a Cricut ID then enter it and sign up together with your account on Cricut.</li>
+ 	<li>And besides that, you’ll see Create a Cricut ID option.</li>
+ 	<li>Click on Create a Cricut ID if you’re new Cricut.</li>
+ 	<li>To create an ID on Cricut you have got to enter your first and cognomen.</li>
+ 	<li>Then enter your Email ID and mobile number.</li>
+ 	<li>Then select the Country where you stay. And then other information.</li>
+ 	<li>After that, click on the Create Cricut ID option.</li>
+ 	<li>Before that, tick into the 2 boxes given.</li>
+ 	<li>The first tick box is for notification purposes and therefore the last is for terms and policy acceptance.</li>
+ 	<li>That’s it, your Cricut ID creation is successful.</li>
+ 	<li>Now you’re able to use the applying or software from your won account.</li>
+</ul>
+<div class="wp-container-5 wp-block-columns">
+<div class="wp-container-4 wp-block-column">
+<h2><strong>4 basic steps to use Cricut maker</strong></h2>
+Following are the four basic steps to use the Cricut maker machine;
 
-Go to the available devices option.
-Select the Cricut Bluetooth connection.
-Press and pair it up.
-This is the Bluetooth connection of cricut.com/setup.
+Following are the four basic steps to use the Cricut maker machine;
+<ul>
+ 	<li>Unbox the Cricut and arrange it in a safe place.</li>
+ 	<li>Then connect the Cricut with a PC, laptop, Mac, iPad, or any other device via Bluetooth or USB cable.</li>
+ 	<li>Then Download and install the software or application and create a Cricut ID of <strong>Cricut.com/setup</strong> for the device.</li>
+ 	<li>After that, arrange the setup and go for the image design drawing and cutting.</li>
+ 	<li>That’s it.</li>
+</ul>
+</div>
+</div>
+<h2><strong>What are connection steps included in the Cricut machine setup?</strong></h2>
+Before installing the Cricut driver, one needs to connect the Cricut machine to their device. There are two methods involved in the Cricut setup: wired setup and wireless setup. These two methods are as follows;
+<div class="wp-container-8 wp-block-columns has-contrast-3-background-color has-background">
+<div class="wp-container-6 wp-block-column">
+<h3><strong>Cricut set up with wired connection</strong></h3>
+The <strong>Cricut.com/setup</strong> maker machine comes with a USB cable, which is necessary to connect your device. Here, the device must have a USB slot.
+<ul>
+ 	<li>Take the Cricut machine on the table or floor.</li>
+ 	<li>Place your device beside the Cricut machine so that the USB cord must reach your device.</li>
+ 	<li>Then plug the Cricut machine end of the USB cord at the backside of your Cricut machine.</li>
+ 	<li>Then plug in the USB end of the cable to the USB slot of your Cricut machine.</li>
+ 	<li>Now take the power cord as well as the power adopter.</li>
+ 	<li>Plug the power cord into the adopter slot to connect the power cord and adopter.</li>
+ 	<li>Then connect another end of the power adopter to the proper slot of the Cricut machine.</li>
+ 	<li>And finally, plug the power cord into the PowerPoint and turn the Cricut machine on.</li>
+ 	<li>Here you have connected the Cricut machine to your device.</li>
+ 	<li>You can check it through the device and preferred option of your device.</li>
+</ul>
+</div>
+<div class="wp-container-7 wp-block-column">
+<h3><strong>Cricut set up with wireless connection</strong></h3>
+The Bluetooth type of connection is required for the devices which do not have a USB port, e.g. smartphones. The connection steps are as follows;
+<ul>
+ 	<li>There is a Bluetooth button present on the Cricut device.</li>
+ 	<li>Press the Bluetooth device and hold it for a few seconds till it starts blinking.</li>
+ 	<li>Now the Bluetooth is on and ready to connect to your device.</li>
+ 	<li>Open your mobile phone or laptop.</li>
+ 	<li>Then open the Bluetooth setting on your mobile phone or laptop.</li>
+ 	<li>You will get an ‘Add a device’ button in the Bluetooth settings.</li>
+ 	<li>Click on this button and wait until you see the Cricut machine name over there.</li>
+ 	<li>As soon as you see the <strong>Cricut.com/setup</strong> machine on the Bluetooth, press on it.</li>
+ 	<li>Now you will get a pair window on your device.</li>
+ 	<li>Click on the pair button to pair the Bluetooth of the Cricut machine to your device.</li>
+ 	<li>Finally, go to your device’s device and preference menu to confirm the connection.</li>
+</ul>
+</div>
+</div>
+<h2><strong>What are the steps to create a Cricut setup ID?</strong></h2>
+To continue with the design editor of the Cricut itself, you need a Cricut account on the Cricut official website. To create the same continuity with the steps below;
+<ul>
+ 	<li>Open your device and then open google chrome on your website.</li>
+ 	<li>Go to the official website by entering the URL cricut.com.</li>
+ 	<li>On this official website, you will have a sign-in button at the upper right corner of your screen.</li>
+ 	<li>Then click on the sign-in button to go to your account dashboard.</li>
+ 	<li>On the next page, you get two options, i.e. Sign in using your Cricut ID and password.</li>
+ 	<li>Another option is to create the Cricut id.</li>
+ 	<li>If you are new to the Cricut website, click on the ‘Create Cricut Id’ button.</li>
+ 	<li>Enter the details such as email address, password, first name, last name, and select your country.</li>
+ 	<li>The email id must be valid, and the password must be strong enough.</li>
+ 	<li>The email Id must be in the format, i.e. abc@xyz.com, and the password would be like Pass@123.</li>
+ 	<li>After this, tick the checkbox available just above the create Cricut Id button.</li>
+ 	<li>The checkbox is for agreement and to get the latest details about the Cricut designs.</li>
+ 	<li>Then finally, click on the ‘ create Cricut ID’ button.</li>
+ 	<li>You are ready with your Cricut id, and the details such as your email address will work as your Cricut id and password to sign in to <strong>Cricut.com/setup</strong>.</li>
+</ul>
+</body>
+</html>
